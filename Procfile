@@ -1,1 +1,1 @@
-web: SET NODE_ENV=production&& babel-node index.js
+web: export NODE_ENV=production&& babel-node index.js
